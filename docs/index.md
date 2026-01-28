@@ -14,7 +14,7 @@ Our group maintains several open-source projects and research tools on GitHub. Y
 
 - [Batista Lab GitHub Organization](https://github.com/batistagroup)
 
-### Conference Talks
+### Lecture Recordings
 
 - Quantum Winter School 2026. Quantum Simulation for Chemistry and Materials Science. [Part 1](https://www.youtube.com/watch?v=ycih_TJxuIY), [Part 2](https://www.youtube.com/watch?v=EdI_mQwUbwQ)
 
