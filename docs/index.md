@@ -14,6 +14,10 @@ Our group maintains several open-source projects and research tools on GitHub. Y
 
 - [Batista Lab GitHub Organization](https://github.com/batistagroup)
 
+### Conference Talks
+
+- Quantum Winter School 2026. Quantum Simulation for Chemistry and Materials Science. [Part 1](https://www.youtube.com/watch?v=ycih_TJxuIY), [Part 2](https://www.youtube.com/watch?v=EdI_mQwUbwQ)
+
 ### Links to our projects
 
 1. [DirectMultiStep](https://dms.batistalab.com) - Direct Route Generation for Multi-Step Retrosynthesis.
