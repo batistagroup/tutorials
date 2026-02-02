@@ -1,0 +1,28 @@
+# Batista Group Tutorials
+
+> Documentation for the Batista Group research lab
+
+## Pages
+
+- https://tutorials.batistalab.com/
+- https://tutorials.batistalab.com/git/github-workflows/
+- https://tutorials.batistalab.com/git/intro/
+- https://tutorials.batistalab.com/git/pre-commit/
+- https://tutorials.batistalab.com/labels/
+- https://tutorials.batistalab.com/python/essential-tools/
+- https://tutorials.batistalab.com/python/lint/
+- https://tutorials.batistalab.com/python/template-repo/
+- https://tutorials.batistalab.com/python/tests/intro/
+- https://tutorials.batistalab.com/python/typing/intro/
+- https://tutorials.batistalab.com/quantum-chemistry/edu-tutorials/
+
+## About
+
+This documentation is maintained by the Batista Group and covers:
+- Python development best practices
+- Git and GitHub workflows
+- Quantum chemistry educational resources
+
+## License
+
+CC-BY 4.0 © 2025 Batista Group
