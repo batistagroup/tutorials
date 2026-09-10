@@ -11,8 +11,16 @@ A comprehensive collection of quantum chemistry and computational chemistry tuto
 ### Quantum Dynamics
 - **[Quantum Dynamics](https://files.batistalab.com/teaching/tutorials/QuantumDynamics.pdf)** - Introduction to quantum dynamical simulations
 - **[Time-Sliced Thawed Gaussian Propagation for Simulations of Quantum Dynamics](http://www.birs.ca/events/2016/5-day-workshops/16w5006/videos/watch/201601281933-Batista.html)** - Video lecture on advanced quantum dynamics methods
+- **[Hierarchical Equations of Motion (HEOM)](https://files.batistalab.com/teaching/tutorials/HEOM_tutorial.pdf)** - Derivation and Python implementation of open-system quantum dynamics, including convergence tests and QUAPI/TEMPO comparisons
 
 ## Computational Methods and Theory
+
+### Quantum Eigenstate Calculations
+- **[Collocation Methods for Computing Quantum Eigenstates](https://files.batistalab.com/teaching/tutorials/Collocation_tutorial.pdf)** - Square and rectangular collocation with Gaussian-basis Morse-oscillator examples and point-selection strategies
+
+### Tensor-Network Methods
+- **[DMRG for Quantum Eigenstates](https://files.batistalab.com/teaching/tutorials/DMRG_tutorial.pdf)** - Density-matrix renormalization group for vibrational eigenstates using binary tensorization, matrix-product states, TT-cross, and matrix-free Hamiltonians
+- **[Quantics Tensor Trains (QTT) for Vibrational Eigenstates](https://files.batistalab.com/teaching/tutorials/QTT_tutorial.pdf)** - Imaginary-time propagation with physical-core Fourier transforms and block Rayleigh–Ritz calculations in compressed tensor-train form
 
 ### Redox Chemistry
 - **[Tutorial on Ab Initio Redox Potential Calculations](https://files.batistalab.com/teaching/tutorials/redoxpotentials.pdf)** - Guide for calculating redox potentials from first principles
@@ -22,6 +30,7 @@ A comprehensive collection of quantum chemistry and computational chemistry tuto
 
 ### QM/MM Methods
 - **[Mod-QM/MM method](http://gascon.chem.uconn.edu/software)** - Information on modified QM/MM methodology
+
 
 ## Software-Specific Tutorials
 
